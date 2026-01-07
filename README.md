@@ -9,9 +9,9 @@ I built this repository to document my journey of turning "dirty" data into clea
 **Ready to explore the code? Check out the [Jupyter Notebook](./googleplaystore.ipynb)!**
 
 
-<table style="border:none; border-collapse:collapse;">
+<table>
   <tr>
-    <td width="55%" valign="top" style="border:none; padding-right:20px;">
+    <td width="55%" valign="top">
 
 ### 🌐 The Big Picture: CRISP-DM Framework
 
@@ -24,12 +24,12 @@ Before diving into the code, it's important to understand the process. I follow 
 5. **Evaluation:** Checking if results meet business goals.
 6. **Deployment:** Sharing insights via this repository.
 
-    </td>
-    <td width="45%" align="left" style="border:none;">
+   </td>
+   <td width="45%" align="left">
 
 <img src="CRISP-DM Framework.png" alt="CRISP-DM Framework" width="350"/>
 
-    </td>
+   </td>
   </tr>
 </table>
 
