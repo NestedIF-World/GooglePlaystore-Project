@@ -8,15 +8,30 @@ I built this repository to document my journey of turning "dirty" data into clea
 
 **Ready to explore the code? Check out the [Jupyter Notebook](./googleplaystore.ipynb)!**
 
-## 🌐 The Big Picture: CRISP-DM Framework
-To keep this project professional and structured, I followed the **CRISP-DM** (Cross-Industry Standard Process for Data Mining) methodology.
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
-1. **Business Understanding** 🤝
-2. **Data Understanding** 🔢
-3. **Data Preparation** 🧼
-4. **Modeling** 🤖
-5. **Evaluation** ✅
-6. **Deployment** 🚀
+### 🌐 The Big Picture: CRISP-DM Framework
+
+Before diving into the code, it's important to understand the process. I follow the **CRISP-DM** (Cross-Industry Standard Process for Data Mining) methodology to ensure the analysis is structured and goal-oriented.
+
+1. **Business Understanding:** Identifying the goal (e.g., "What makes an app successful?").
+2. **Data Understanding:** Gathering and exploring the raw data.
+3. **Data Preparation:** Cleaning and transforming data (The EDA heart).
+4. **Modeling:** Applying algorithms (Future step).
+5. **Evaluation:** Checking if results meet business goals.
+6. **Deployment:** Sharing insights via this repository.
+
+   </td>
+   <td width="45%" align="left">
+
+<img src="cri.png" alt="CRISP-DM Framework" width="350"/>
+
+   </td>
+  </tr>
+</table>
+
 
 > 🔗 For a deep dive into this standard, check out the [CRISP-DM Framework](./CRISP-DM.docx)!
 
