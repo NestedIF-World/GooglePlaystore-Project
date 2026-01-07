@@ -26,7 +26,7 @@ Before diving into the code, it's important to understand the process. I follow 
    </td>
    <td width="45%" align="left">
 
-<img src="cri.png" alt="CRISP-DM Framework" width="350"/>
+<img src="CRISP-DM Framework.png" alt="CRISP-DM Framework" width="350"/>
 
    </td>
   </tr>
