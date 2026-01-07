@@ -6,6 +6,22 @@ I built this repository to document my journey of turning "dirty" data into clea
 
 ---
 
+**Ready to explore the code? Check out the [Jupyter Notebook](./googleplaystore.ipynb)!**
+
+## 🌐 The Big Picture: CRISP-DM Framework
+To keep this project professional and structured, I followed the **CRISP-DM** (Cross-Industry Standard Process for Data Mining) methodology.
+
+1. **Business Understanding** 🤝
+2. **Data Understanding** 🔢
+3. **Data Preparation** 🧼
+4. **Modeling** 🤖
+5. **Evaluation** ✅
+6. **Deployment** 🚀
+
+> 🔗 For a deep dive into this standard, check out the [CRISP-DM Framework](./CRISP-DM.docx)!**
+
+---
+
 ## 🛠️ The EDA Roadmap
 
 ### 1. Data Ingestion 📥
@@ -77,6 +93,4 @@ In this repo, I applied the roadmap above to a dataset of mobile apps. Here’s 
 ## 🎓 Acknowledgments
 A huge thank you to **Ajay Kumar Gupta**, Staff Data Scientist at **Synopsys**, for the mentorship and guidance throughout this deep dive!
 
----
-**Ready to explore the code? Check out the [Jupyter Notebook](./googleplaystore.ipynb)!**
 
