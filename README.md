@@ -18,7 +18,7 @@ To keep this project professional and structured, I followed the **CRISP-DM** (C
 5. **Evaluation** ✅
 6. **Deployment** 🚀
 
-> 🔗 For a deep dive into this standard, check out the [CRISP-DM Framework](./CRISP-DM.docx)!**
+> 🔗 For a deep dive into this standard, check out the [CRISP-DM Framework](./CRISP-DM.docx)!
 
 ---
 
